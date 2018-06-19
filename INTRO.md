@@ -12,7 +12,9 @@
 
 官方网址：http://d2fapp.com
 
-*English 
+
+
+English 
 
 1.Please search for "TRON Circle" App which is a consensus value community Dapp developed for future nodes of TRON. Every node and every community can create Dapps with its own characteristics and functions.
 
