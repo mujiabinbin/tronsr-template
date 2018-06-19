@@ -13,6 +13,9 @@ English
 Please search for "TRON Circle" App which is a consensus value community Dapp developed for future nodes of TRON. Every node and every community can create Dapps with its own characteristics and functions.
 
 Direct to Fans Co.ltd, hereinafter referred to as the D2F Team, is dedicated to the Dapp ecology and developing smart hardware based on blockchain. Several Dapps have been launched already and the open beta of the blockchain hardware named "Hash's eye" will also start in August.
+
 D2F believes that in the preliminary stage of public blockchain, deploying all functions and data onto the blockchain at one shot still needs a certain time and support from the public blockchain. The first thing that can be done is to solve the traffic issue of decentralized apps and the matter of user experience. The approach that D2F takes is to first ensure every app is purely decentralized and is the traffic portal for the future distributed communities. And then gradually migrate to public blockchain as public blockchain technology matures. 
+
 Although social Apps like Wechat makes it easy to add people, the loose relations among people put the activeness of communities mostly below 5%. So Wechat group is more like a traffic diversion tool, a habitat of rudimentary communities.
+
 The model of media + community + token=consensus value community Dapp, which D2F proposed can increase the speed in which public blockchain apps are implemented. It can allow TRON to directly reach its fans and give TRON wider public influence. Besides, it can also make TRON the fastest growing consensus value community in the world.
