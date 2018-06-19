@@ -8,9 +8,7 @@
 
 * D2F提出的：媒体＋社群＋通证＝共识价值社区Dapp模式，可以使公链应用快速落地。让波场直达他的粉丝，会使波场具有更广泛的公众影响力。同时也能使TRON成为全球发展最快的共识价值社区。
 
-北京每日互联科技有限公司
-
-官方网址：http://d2fapp.com
+* 北京每日互联科技有限公司  官方网址：http://d2fapp.com
 
 
 
@@ -26,6 +24,4 @@ English
 
 * The model of media + community + token=consensus value community Dapp, which D2F proposed can increase the speed in which public blockchain apps are implemented. It can allow TRON to directly reach its fans and give TRON wider public influence. Besides, it can also make TRON the fastest growing consensus value community in the world.
 
-Direct to Fans Co.ltd.
-
-Official Website:http://d2fapp.com
+* Direct to Fans Co.ltd. Official Website:http://d2fapp.com
