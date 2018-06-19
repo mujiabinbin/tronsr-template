@@ -1,10 +1,6 @@
 请在Appstone搜索“波场圈”App，这是我们为TRON未来节点们开发的一款共识价值社区Dapp。每一个节点每一个社群都可以生成各具特色和功能的Dapp。
 
-![Image of TRONCIRCLE](http://d2fapp.com/static/index/images/2.jpg)
-
 北京每日互联科技有限公司以下简称D2F团队致力于Dapp生态和基于区块链的智能硬件开发。我们的多款Dapp已上线，区块链智能硬件“哈希之眼”也将在8月开启公测。
-
-![Image of INTROBANNER](http://d2fapp.com/static/index/images/1.jpg)
 
 D2F认为在公链的初级阶段，一步到位的把所有功能及数据部署在区块链上还需要一定时间及公链的支持。可以先解决去中心化应用中的流量问题和用户体验。D2F的路径是先保证每个应用都是纯粹的去中心化应用，都是未来的分布式社群流量入口。然后跟随公链技术的成熟，逐步向公链迁移。
 
