@@ -1,4 +1,4 @@
-70%奖金分红！
+## 70%奖金分红！
 
 26日起，投票就是挖矿。助力波场，收益共享。TokenBank投票自动分红系统，将超级节点奖金转化为类理财产品：只要投票，每周都有固定收益。使持币者不惧大盘涨跌，请给D2FAPP投票参与挖矿分红。
 
@@ -19,7 +19,7 @@
 
 English
 
-70% bonus share！
+## 70% bonus share！
 
 
 By 26th JUNE,Voting is TRON mining! TokenBank has converted the bonus for super nodes into a type of wealth management product irrespective of overall rises and falls：weekly fixed returns only by voting “http://d2fapp.com/”
