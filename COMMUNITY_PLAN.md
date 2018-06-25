@@ -1,8 +1,8 @@
 ## 70%奖金分红！
 
-26日起，投票就是挖矿。助力波场，收益共享。TokenBank投票自动分红系统，将超级节点奖金转化为类理财产品：只要投票，每周都有固定收益。使持币者不惧大盘涨跌，请给 http://d2fapp.com/ 投票参与挖矿分红。
+26日起，投票就是挖矿。助力波场，收益共享。TokenBank投票自动分红系统，将超级节点奖金转化为类理财产品：只要投票，每周都有固定收益。使持币者不惧大盘涨跌，请给 http://d2fapp.com 投票参与挖矿分红。
 
-每日互联将超级代表奖励TRX的70%回报给投票支持我们的菠菜，快去https://tronscan.org/#/votes 为  “http://d2fapp.com/”  投票吧！ 详情请戳：http://d2fapp.com/
+每日互联将超级代表奖励TRX的70%回报给投票支持我们的菠菜，快去https://tronscan.org/#/votes 为  “http://d2fapp.com”  投票吧！ 详情请戳：http://d2fapp.com/
 
 * 我们的产品已上线，例如，范玮琪，吉克俊逸等众多明星艺人均已开通了他们的社群应用。这些应用可以快速移植到到波场公链上。与波场的系统完成对接后，我们即可开始以下社区支持计划，我们的目标是使波场成为最先落地的公链。共建社区的成功，才是D2F的成功。
 
@@ -24,7 +24,7 @@ English
 
 By 26th JUNE,Voting is TRON mining! TokenBank has converted the bonus for super nodes into a type of wealth management product irrespective of overall rises and falls：weekly fixed returns only by voting “http://d2fapp.com/”
 
-Direct to Fans Co.ltd.will share 70% TRON TRX bonus with voters who vote for us，come on to vote for “http://d2fapp.com/” in https://tronscan.org/#/votes！ For details：http://d2fapp.com/
+Direct to Fans Co.ltd.will share 70% TRON TRX bonus with voters who vote for us，come on to vote for “http://d2fapp.com” in https://tronscan.org/#/votes For details：http://d2fapp.com
 
 * The moment our product was rolled out, many celebrities and artists such as Fan Weiqi (Christine Fan) and Jike Junyi (Summer) opened their community apps. These apps can be swiftly transferred to the TRON public blockchain. After connecting these apps to TRON, we can start the following community support plan and achieve our goal of making TRON the first implemented public blockchain. To D2F, its real success is to make co-built community a success.
 
