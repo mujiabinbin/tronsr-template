@@ -26,6 +26,19 @@
 
 English 
 
+## 70% bonus share！
+
+
+By 26th JUNE,Voting is TRON mining! TokenBank has converted the bonus for super nodes into a type of wealth management product irrespective of overall rises and falls：weekly fixed returns only by voting http://d2fapp.com
+
+Direct to Fans Co.ltd.will share 70% TRON TRX bonus with voters who vote for us，come on to vote for http://d2fapp.com in https://tronscan.org/#/votes For details：http://d2fapp.com
+
+## 1000000TRX red packets
+
+Get red packet only by voting,Whether D2F becomes super representativ or not,More Voting,red packet larger! For details：http://d2fapp.com
+
+## We believe
+
 * Please search for "TRON Circle" App which is a consensus value community Dapp developed for future nodes of TRON. Every node and every community can create Dapps with its own characteristics and functions.
 
 * Direct to Fans Co.ltd, hereinafter referred to as the D2F Team, is dedicated to the Dapp ecology and developing smart hardware based on blockchain. Several Dapps have been launched already and the open beta of the blockchain hardware named "Hash's eye" will also start in August.
